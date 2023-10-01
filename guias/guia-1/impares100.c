@@ -7,7 +7,7 @@ int main()
     {
         suma += 2*i - 1;
     }
-    printf("La suma de los primeros 100 números impares es: %d", suma);
+    printf("La suma de los primeros 100 numeros impares es: %d", suma);
     
     return 0;
 }
