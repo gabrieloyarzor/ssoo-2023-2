@@ -9,7 +9,7 @@ int main()
 
     printf("Vector original: ");
     
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < n; i++)
     {
         printf("%d ", vector[i]);
     }
